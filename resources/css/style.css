@@ -6,7 +6,7 @@ html, body {
 }
 
 div, section {
-  border: 1px outset red;
+  border: 1px outset #fffd61;
 }
 
 a {
@@ -33,7 +33,7 @@ h1 {
   background-image: url("../images/Deepmind.jpg");
   background-position: center;
   background-repeat: no-repeat;
-  color: red;
+  color: #ffca28;
   margin: 0;
   padding: 0;
 }
