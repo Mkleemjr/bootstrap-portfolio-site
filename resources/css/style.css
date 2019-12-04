@@ -87,11 +87,11 @@ h1 {
 /* Portfolio Section */
 
 #portfolio {
-  background-color: #eee;
+  background-color: lightblue;
 }
 
 .col-sm-4 {
-  background-color: lightgreen;
+  background-color: lightblue;
 }
 
 .row img {
@@ -112,7 +112,7 @@ h1 {
 /* Contact Section */
 
 .contact {
-  background-color: lightyellow;
+  background-color: cyan;
   padding: 1em;
 }
 
