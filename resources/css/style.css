@@ -45,8 +45,8 @@ h1 {
 
 .jumbotron p {
   display: flex;
-  background-color: #6ff9ff;
-  opacity: 0.3;
+  background-color: #fffd61;
+  opacity: 0.8;
   font-size: 1.7rem;
   font-weight: bold;
   font-style: italic;
