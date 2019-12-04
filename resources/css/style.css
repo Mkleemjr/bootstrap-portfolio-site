@@ -91,7 +91,7 @@ h1 {
 }
 
 .col-sm-4 {
-  background-color: lightblue;
+  background-color: #26c6da;
 }
 
 .row img {
@@ -112,7 +112,7 @@ h1 {
 /* Contact Section */
 
 .contact {
-  background-color: cyan;
+  background-color: #6ff9ff;
   padding: 1em;
 }
 
