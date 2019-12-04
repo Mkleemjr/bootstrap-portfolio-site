@@ -39,8 +39,8 @@ h1 {
 }
 
 .jumbotron h1 {
-  color: red;
-  text-shadow: 2px 2px 3px lightblue;
+  color: #ffca28;
+  text-shadow: 2px 2px 3px rgba(255,255,255,0.5);
 }
 
 .jumbotron p {
