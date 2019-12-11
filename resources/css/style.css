@@ -5,9 +5,9 @@ html, body {
   font-size: 18px;
 }
 
-div, section {
-  /*border: 1px outset #fffd61;*/
-}
+/*div, section {
+  border: 1px outset #fffd61;
+}*/
 
 a {
   color: black;
@@ -87,9 +87,9 @@ h1 {
 
 /* Portfolio Section */
 
-#portfolio {
-  /*background-color: lightblue;*/
-}
+/*#portfolio {
+  background-color: lightblue;
+}*/
 
 .col-sm-4 {
   background-color: #26c6da;
